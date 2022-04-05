@@ -1,0 +1,1 @@
+SELECT name, create_year FROM films WHERE duration = 90 AND create_year > 2012;
