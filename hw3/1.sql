@@ -1,0 +1,1 @@
+SELECT name FROM Doctors WHERE salary BETWEEN 700 AND 3000 ORDER BY salary DESC;
