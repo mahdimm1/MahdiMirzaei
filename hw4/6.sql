@@ -1,0 +1,1 @@
+SELECT Country, COUNT(id) FROM Players GROUP BY Country;
